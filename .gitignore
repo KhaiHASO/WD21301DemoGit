@@ -1,0 +1,15 @@
+# Binaries and executables
+bin/
+*.o
+*.out
+*.exe
+*.dSYM/
+
+# Data files generated during runtime
+products_data.csv
+*.csv
+
+# IDE and Editor files
+.vscode/
+.idea/
+.DS_Store
