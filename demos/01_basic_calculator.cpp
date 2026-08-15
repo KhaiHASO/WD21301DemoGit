@@ -12,7 +12,7 @@ bool isPrime(int n) {
     }
     return true;
 }
-
+        
 // Hàm tính lũy thừa
 double power(double base, int exp) {
     return pow(base, exp);
