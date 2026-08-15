@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    int a, b,c;//tét
+    int a, b;//tét
     cout << "Nhap hai so a va b: ";
     cin >> a >> b;
     
